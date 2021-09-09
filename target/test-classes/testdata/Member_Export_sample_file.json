@@ -1,0 +1,74 @@
+{
+  "name": "Auto_Basic_Export_Members02",
+  "baseViewType": "MembershipsBasic_New1",
+  "description": "Basic Memberships incl. bonus point overview",
+  "columnDefinitions": [
+    {
+      "columnKey": "Key",
+      "alternateName": "Key",
+      "position": 0
+    },
+    {
+      "columnKey": "Name",
+      "alternateName": "Name",
+      "position": 1
+    },
+    {
+      "columnKey": "Program",
+      "alternateName": "Program",
+      "position": 2
+    },
+    {
+      "columnKey": "CCY",
+      "alternateName": "Currency",
+      "position": 3
+    },
+    {
+      "columnKey": "OwnerName",
+      "alternateName": "Owner Name",
+      "position": 4
+    },
+    {
+      "columnKey": "Type",
+      "alternateName": "Type",
+      "position": 5
+    },
+    {
+      "columnKey": "Status",
+      "alternateName": "Status",
+      "position": 6
+    },
+    {
+      "columnKey": "Since",
+      "alternateName": "Since",
+      "position": 7
+    },
+    {
+      "columnKey": "AccountId",
+      "alternateName": "Account Id",
+      "position": 8
+    },
+    {
+      "columnKey": "AccountBalance",
+      "alternateName": "Balance",
+      "position": 9
+    }
+  ],
+  "filterDefinitions": [
+    {
+      "filterName": "MembershipType",
+      "dataType": "String",
+      "description": "Membership Type Filter"
+    },
+    {
+      "filterName": "Status",
+      "dataType": "String",
+      "description": "Status of the membership"
+    },
+    {
+      "filterName": "AccountType",
+      "defaultValue": "bonus",
+      "description": "Account Type"
+    }
+  ]
+}

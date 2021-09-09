@@ -1,0 +1,20 @@
+[{
+  "alternateIds": [
+    "tets12"
+  ],
+  "ccy": "MUY",
+  "contractStatus": "ACTIVE",
+  "key": "TestJs0019",
+  "name": "Pk_Json",
+  "owner": {
+    "properties": {},
+    "status": "ACTIVE",
+    "userId": "TestJs0019",
+    "verified": "2021-02-18T17:59:27.963433Z"
+  },
+  "program": "TestPrm",
+  "properties": {},
+  "since": "2021-02-18T17:59:27.963433Z",
+  "tier": "BASIC",
+  "type": "DE-Member"
+}]

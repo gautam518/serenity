@@ -1,0 +1,19 @@
+[{
+  "alternateIds": [
+    "Mar002"
+  ],
+  "ccy": "MUY",
+  "contractStatus": "ACTIVE",
+  "key": "Test_Mar_01",
+  "name": "Pushkar_Json",
+  "owner": {
+    "properties": {},
+    "status": "ACTIVE",
+    "userId": "Test_Mar_02",
+    "verified": "2021-02-18T17:59:27.963433Z"
+  },
+  "program": "TestPrm",
+  "properties": {},
+  "since": "2021-03-01T17:59:27.963433Z",
+  "tier": "BASIC",
+  "type": "DE-Member"

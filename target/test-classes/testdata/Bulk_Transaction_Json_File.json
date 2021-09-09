@@ -1,0 +1,13 @@
+[
+{
+  "txId": "AutoBulk_TxId_01,
+  "date": "2021-04-15T17:59:27.963433Z",
+  "clientId": "Multi-MEB-00000016",
+  "items": [{
+    "productKey": "4104760074052",
+    "channelKey": "RETAIL",
+    "price": 10.0,
+    "quantity": 1
+  }]
+}
+]

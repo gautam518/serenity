@@ -1,0 +1,839 @@
+[
+	{
+		"Key" : "fullImport_mship001_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship001_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card001_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				},
+				{
+					"Key" : "fullImport_card0013_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0011_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0011_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					},
+					{
+						"Key" : "fullImport_card0014_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0012_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0012_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					},
+					{
+						"Key" : "fullImport_card0015_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship002_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship002_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card002_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0011_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "1 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0021_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					},
+					{
+						"Key" : "fullImport_card0023_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0022_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "No Upd",
+					"Lastname": "S\u00fc\u00dfebier",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0022_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship003_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship002_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "1 Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card003_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0031_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0031_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0012_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "1 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0032_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship002_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : true
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship0021_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card0025_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				},
+				{
+					"Key" : "fullImport_card0026_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0011_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "2 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0021_key_05",
+						"Name" : "MateCard_UPD",
+						"Description" : "CARD"
+					},{
+						"Key" : "fullImport_card0027_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0023_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0028_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship001_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : true
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship001_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "1 Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card001_key_05",
+					"Name" : "OwnerCard_UPD",
+					"Description" : "CARD"
+				}, {
+					"Key" : "fullImport_card0016_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0011_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "3 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0011_key_05",
+						"Name" : "MateCard_UPD",
+						"Description" : "CARD"
+					},
+					{
+						"Key" : "fullImport_card0017_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0013_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Status" : "DELETED",
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0018_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship004_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship004_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card002_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				},
+				{
+					"Key" : "fullImport_card003_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0011_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "4 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0041_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "fullImport_mate0022_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "1 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0042_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	}, {
+		"Key" : "fullImport_mship005_key_05",
+		"Type": "DE-Member",
+		"Tier" : "WRONG",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship005_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card005_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				},
+				{
+					"Key" : "fullImport_card0051_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "Mate0051",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0053_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "Mate0052",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0052_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key" : "fullImport_mship006_key_05",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "fullImport_mship006_key_05",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "No Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "fullImport_card006_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				},
+				{
+					"Key" : "fullImport_card0061_key_05",
+					"Name" : "OwnerCard",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "fullImport_mate0061_key_05",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "fullImport_card0027_key_05",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			},
+			{
+				"UserId": "{{fullImport_mate0062_key}}",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "No Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "{{fullImport_card0062_key}}",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	} ,{
+		"Key" : "{{fullImport_mship001_key}}",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "{{fullImport_mship001_key}}",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "2 Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "{{fullImport_card001_key}}",
+					"Name" : "OwnerCard_UPD2",
+					"Description" : "CARD"
+				}, {
+					"Key" : "{{fullImport_card0016_key}}",
+					"Name" : "OwnerCard_UPD",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "{{fullImport_mate0013_key}}",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "1 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "{{fullImport_card0018_key}}",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	}, {
+		"Key" : "{{fullImport_mship001_key}}",
+		"Type": "DE-Member",
+		"Tier" : "BASIC",
+		"Properties" : {
+			"PromoterId": "SPONSOR-DE",
+			"AdvertisingConsent" : false
+		},
+		"Owner" : {
+			"UserId" : "{{fullImport_mship002_key}}",
+			"Properties": {
+				"Prefix": "Prof.",
+				"Firstname": "Natalia",
+				"Lastname": "1 Upd",
+				"Birth": "1988-06-19T00:00:00.000000Z",
+				"Email": "Natalia.Kranz-fake@mailinator.com",
+				"Phone": "+49(0)5556 433623",
+				"Address1": "Ludger-Junck-Ring 596",
+				"Address2": "Mecklenburg-Vorpommern",
+				"Zip": "62070",
+				"CountryCode": "DE",
+				"CountryName": "Deutschland",
+				"FavoriteBrand": "Powerpull"
+			},
+			"Cards" : [
+				{
+					"Key" : "{{fullImport_card0019_key}}",
+					"Name" : "OwnerCard_UPD2",
+					"Description" : "CARD"
+				}
+			]
+		},
+		"Mates" : [
+			{
+				"UserId": "{{fullImport_mate0012_key}}",
+				"Properties": {
+					"Prefix": "Ing.",
+					"Firstname": "Annekatrin",
+					"Lastname": "1 Upd",
+					"Birth": "1953-07-25T00:00:00.000000Z",
+					"Email": "Annekatrin.S\u00fc\u00dfebier-fake@mailinator.com",
+					"Phone": "+49(0)6856 916984",
+					"Address1": "Rosi-Schweitzer-Stra\u00dfe 55",
+					"Address2": "Berlin",
+					"Zip": "36340",
+					"CountryCode": "DE",
+					"CountryName": "Deutschland",
+					"FavoriteBrand": "Clik"
+				},
+				"Cards" : [
+					{
+						"Key" : "{{fullImport_card00110_key}}",
+						"Name" : "MateCard",
+						"Description" : "CARD"
+					}
+				]
+			}
+		]
+	}
+]

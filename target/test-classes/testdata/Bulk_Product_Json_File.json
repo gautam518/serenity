@@ -1,0 +1,24 @@
+[
+{
+	"Key"       : "123001",
+	"ChannelKey": "RETAIL",
+	"Sid"       : "RETAIL-PROD:1",
+	"BodyData": {
+		"Id":      "123001",
+		"Name"    : "Flash Charger",
+		"Category"       : "Accessories",
+		"SubCategory"    : ["Charger", "Electronics"],
+		"Brand"          : "Flash",
+		"ColorCode"      : "#514100",
+		"Supplier"       : "Computer & Co",
+		"Price-Purchase" : 11.13,
+		"Price-Selling"  : 17.39,
+		"Currency"       : "USD",
+		"Gift"           : false,
+		"VAT"            : 19,
+		"LeadTime"       : 7,
+		"Stock-Current"  : 20,
+		"Stock-Order"    : 49
+	}
+}
+]

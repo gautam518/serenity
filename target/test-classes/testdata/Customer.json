@@ -1,0 +1,29 @@
+[
+{
+  "Key": "MSHIP_ToMerge_A",
+  "Since": "2018-05-20T17:59:27.963433Z",
+  "Type": "DE-Member",
+  "Tier": "BASIC",
+  "Properties": {
+    "AdvertisingConsent": false,
+    "PromoterId": "SPONSOR-DE"
+  },
+  "Owner": {
+    "UserId": "MSHIP_ToMerge_A",
+    "Properties": {
+      "Prefix": ".",
+      "Firstname": "Former",
+      "Lastname": "Mship",
+      "Birth": "1988-06-19T00:00:00.000000Z",
+      "Email": "merge1@mailinator.com",
+      "Phone": "+49(0)5556 433623",
+      "Address1": "Ludger-Junck-Ring 596",
+      "Address2": "Mecklenburg-Vorpommern",
+      "Zip": "62070",
+      "CountryCode": "DE",
+      "CountryName": "Deutschland",
+      "FavoriteBrand": "Powerpull"
+    }
+  }
+}
+]

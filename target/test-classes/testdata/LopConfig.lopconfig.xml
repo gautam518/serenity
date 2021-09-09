@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lop-config generator="prime-o-mat v1.3.6" generated="2021-04-27T19:40:50.000000+00:00">
+	<processor name="RewardOnlyBookKeeper" result="true"/>
+	<processor name="ClassicAwardGranting"/>
+	<processor name="TxResultArchiver"/>
+	<processor name="RedeemInSequenceOfExpiration" result="true"/>
+	<processor name="MembershipEvaluationByTx" result="true">
+		<prop name="ChannelKey" type="TEXT">MEMBERSHIP</prop>
+	</processor>
+	<processor name="ReferralEvaluator"/>
+	<processor name="PartialTxEvaluator" result="true">
+		<prop name="AssumeMissingProductItemsQualified" type="BOOLEAN">false</prop>
+	</processor>
+	<processor name="TxArchiver"/>
+	<processor name="ReferralTxEvaluator"/>
+	<processor name="RedemptionInverter" result="true"/>
+	<processor name="MembershipEventMonitor" result="true"/>
+	<processor name="SecurityCodeChallenger" result="true">
+		<prop name="RequireSecondFactorRoleName" type="TEXT">INSERT_COMMA_SEPARATED_ROLES_HERE</prop>
+	</processor>
+	<processor name="FailedLoginMonitor" result="true">
+		<prop name="NofificationRecipient" type="TEXT">support@loyaltyprime.com</prop>
+		<prop name="MaxFailAttempts" type="NUMBER">2</prop>
+	</processor>
+	<processor name="RewardEventMonitor" result="true"/>
+	<processor name="VoucherMonitor" result="true"/>
+	<processor name="SinglePartnerTrendProvider" result="true">
+		<prop name="RedemptionAccountType" type="TEXT">PROMO</prop>
+		<prop name="LiabilityAccountType" type="TEXT">PROMO</prop>
+	</processor>
+	<processor name="PointsExpirationMonitor" result="true"/>
+	<processor name="PointsUnlockMonitor" result="true"/>
+	<auto-schedule lop="TierAssessment" schedule="#1" time="*-01-01 03:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="TxChannel" type="TEXT">TIER</msg-prop>
+		<msg-prop name="BalanceAccType" type="TEXT">Volume</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="TierAssessment" schedule="#2" time="*-04-01 03:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="TxChannel" type="TEXT">TIER</msg-prop>
+		<msg-prop name="BalanceAccType" type="TEXT">Volume</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="TierAssessment" schedule="#3" time="*-07-01 03:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="TxChannel" type="TEXT">TIER</msg-prop>
+		<msg-prop name="BalanceAccType" type="TEXT">Volume</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="TierAssessment" schedule="#4" time="*-10-01 03:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="TxChannel" type="TEXT">TIER</msg-prop>
+		<msg-prop name="BalanceAccType" type="TEXT">Volume</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="PointsExpiration" schedule="#1" time="2020-01-01 01:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="ExpireAfterMonths" type="INTEGER">6</msg-prop>
+		<msg-prop name="AccountType" type="TEXT">BONUS</msg-prop>
+		<msg-prop name="ExpirationRef" type="TEXT">EXPIRES_M24</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="PointsUnlock" schedule="#1" time="2020-01-01 01:00:00">
+		<msg-prop name="LockingRefs" type="TEXT">BLOCKED_15</msg-prop>
+		<msg-prop name="UnlockAfterDays" type="INTEGER">15</msg-prop>
+		<msg-prop name="LockPointType" type="TEXT">BLOCKED</msg-prop>
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="RewardingRetry" schedule="#1" time="2020-01-01 01:00:00">
+		<msg-prop name="IncludeRegex" type="TEXT">^ToRetry_.*$</msg-prop>
+		<msg-prop name="ErrorTypes" type="TEXT">INVALID,BOOKING_FAILED</msg-prop>
+		<msg-prop name="FromDate" type="TEXT">2021-01-01</msg-prop>
+		<msg-prop name="ToDate" type="TEXT">2040-01-01</msg-prop>
+	</auto-schedule>
+	<auto-schedule lop="ExpirationForecast" schedule="#1" time="2020-01-01 01:00:00">
+		<msg-prop name="MembershipType" type="TEXT">DE-Member</msg-prop>
+		<msg-prop name="ExpireAfterMonths" type="INTEGER">6</msg-prop>
+		<msg-prop name="AccountType" type="TEXT">BONUS</msg-prop>
+		<msg-prop name="ExpirationRef" type="TEXT">EXPIRES_M24</msg-prop>
+		<msg-prop name="ForecastBeforeMonths" type="INTEGER">6</msg-prop>
+		<msg-prop name="GracePeriod" type="TEXT">END_OF_YEAR</msg-prop>
+	</auto-schedule>
+	<auto-followup lop="Enrollment" follower="MembershipEvaluation"/>
+	<auto-followup lop="Enrollment" follower="MembershipMonitor"/>
+	<auto-followup lop="MembershipUpdate" follower="MembershipMonitor"/>
+	<auto-followup lop="MembershipMerge" follower="MembershipMonitor"/>
+	<auto-followup lop="MembershipCancellation" follower="MembershipMonitor"/>
+	<auto-followup lop="BulkDataImport" follower="ImportQueueProcessing"/>
+	<auto-followup lop="Rewarding" follower="RewardMonitor"/>
+	<auto-followup lop="Redemption" follower="RedemptionMonitor"/>
+	<auto-followup lop="TxReversal" follower="TxReversalMonitor"/>
+	<auto-followup lop="VoucherIssue" follower="VoucherMonitor"/>
+	<auto-followup lop="VoucherConvert" follower="VoucherMonitor"/>
+	<auto-followup lop="RedemptionReversal" follower="RedemptionReversalMonitor"/>
+	<auto-followup lop="Adjustment" follower="AdjustmentMonitor"/>
+	<lop-constraint lop="MembershipMerge" excludes="BLOCKED, SUSPENDED, CANCELLED, DOOMED"/>
+	<lop-constraint lop="DoomedQuirk" excludes=""/>
+</lop-config>

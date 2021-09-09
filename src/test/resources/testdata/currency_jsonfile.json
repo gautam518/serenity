@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "EUR",
+    "Name": "Euro",
+    "Decimals": 3,
+    "MinUnit": 0.001,
+    "ConversionRates": [
+      {
+        "TargetCurrencyCode": "BPT",
+        "Rate": 100
+      }
+    ]
+  },
+  {
+    "Code": "BPT",
+    "Name": "Bonus Points",
+    "Decimals": 3,
+    "MinUnit": 0.001
+  },
+  {
+    "Code": "USD",
+    "Name": "US-Dollar",
+    "Decimals": 3,
+    "MinUnit": 0.001,
+    "ConversionRates": [
+      {
+        "TargetCurrencyCode": "BPT",
+        "Rate": 50
+      }
+    ]
+  }
+]

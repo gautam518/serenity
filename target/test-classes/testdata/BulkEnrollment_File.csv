@@ -1,0 +1,5 @@
+Key,Name,Since,PromoterId,CCY,Tier,Type,UserId,Address1,Address2,City,ZIP,Country,Prop1,Prop2
+MultiMeb_001,Test_Member,2021-05-25T00:00:00.0000000Z,SPONSOR-DE,EUR,BASIC,DE-Member,MultiMeb_001,Testad1,TestAd2,TestCity,,,,
+MultiMeb_002,Test_Member,2021-05-25T00:00:00.0000000Z,SPONSOR-DE,EUR,BASIC,DE-Member,MultiMeb_002,Testad1,TestAd2,TestCity,,,,
+MultiMeb_003,Test_Member,2021-05-25T00:00:00.0000000Z,SPONSOR-DE,EUR,BASIC,DE-Member,MultiMeb_003,Testad1,TestAd2,TestCity,,,,
+MultiMeb_003,Test_Member,2021-05-25T00:00:00.0000000Z,SPONSOR-DE,EUR,BASIC,DE-Member,MultiMeb_003,Testad1,TestAd2,TestCity,,,,

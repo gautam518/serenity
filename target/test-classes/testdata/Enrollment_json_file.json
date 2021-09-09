@@ -1,0 +1,117 @@
+[
+{
+  "Key": "Multi-MEB-00000016",
+  "Name": "Test Member",
+  "Since": "2021-05-20T00:00:00.000000Z",
+  "Type": "DE-Member",
+  "Tier": "BASIC",
+  "CCY": "EUR",
+  "Properties": {
+    "PromoterId": "SPONSOR-DE",
+    "AdvertisingConsent": false
+  },
+  "Owner": {
+    "UserId": "Multi-MEB-0000006",
+    "Properties": {
+      "Prefix": "Prof.",
+      "Firstname": "Test",
+      "Lastname": "Member",
+      "Birth": "1988-06-19T00:00:00.000000Z",
+      "Email": "Test.lp@test.com",
+      "Phone": "+49(0)5556 433623",
+      "Address1": "Ludger-Junck-Ring 596",
+      "Address2": "Mecklenburg-Vorpommern",
+      "Zip": "62070",
+      "CountryCode": "DE",
+      "CountryName": "Deutschland",
+      "FavoriteBrand": "Powerpull"
+    }
+  }
+},
+{
+  "Key": "Multi-MEB-0000017",
+  "Name": "Test Member",
+  "Since": "2021-05-20T00:00:00.000000Z",
+  "Type": "DE-Member",
+  "Tier": "BASIC",
+  "CCY": "EUR",
+  "Properties": {
+    "PromoterId": "SPONSOR-DE",
+    "AdvertisingConsent": false
+  },
+  "Owner": {
+    "UserId": "Multi-MEB-000007",
+    "Properties": {
+      "Prefix": "Prof.",
+      "Firstname": "Test",
+      "Lastname": "Member",
+      "Birth": "1988-06-19T00:00:00.000000Z",
+      "Email": "Test.lp1@test.com",
+      "Phone": "+49(0)5556 433623",
+      "Address1": "Ludger-Junck-Ring 596",
+      "Address2": "Mecklenburg-Vorpommern",
+      "Zip": "62070",
+      "CountryCode": "DE",
+      "CountryName": "Deutschland",
+      "FavoriteBrand": "Powerpull"
+    }
+  }
+},
+{
+  "Key": "Multi-MEB-000005",
+  "Name": "Test Member",
+  "Since": "2021-05-20T00:00:00.000000Z",
+  "Type": "DE-Member",
+  "Tier": "BASIC",
+  "CCY": "EUR",
+  "Properties": {
+    "PromoterId": "SPONSOR-DE",
+    "AdvertisingConsent": false
+  },
+  "Owner": {
+    "UserId": "Multi-MEB-000005",
+    "Properties": {
+      "Prefix": "Prof.",
+      "Firstname": "Test",
+      "Lastname": "Member",
+      "Birth": "1988-06-19T00:00:00.000000Z",
+      "Email": "Test.lp2@test.com",
+      "Phone": "+49(0)5556 433623",
+      "Address1": "Ludger-Junck-Ring 596",
+      "Address2": "Mecklenburg-Vorpommern",
+      "Zip": "62070",
+      "CountryCode": "DE",
+      "CountryName": "Deutschland",
+      "FavoriteBrand": "Powerpull"
+    }
+  }
+},{
+  "Key": "Multi-MEB-000004",
+  "Name": "Test Member",
+  "Since": "2021-05-20T00:00:00.000000Z",
+  "Type": "DE-Member",
+  "Tier": "BASIC",
+  "CCY": "EUR",
+  "Properties": {
+    "PromoterId": "SPONSOR-DE",
+    "AdvertisingConsent": false
+  },
+  "Owner": {
+    "UserId": "Multi-MEB-000004",
+    "Properties": {
+      "Prefix": "Prof.",
+      "Firstname": "Test",
+      "Lastname": "Member",
+      "Birth": "1988-06-19T00:00:00.000000Z",
+      "Email": "Test.lp3@test.com",
+      "Phone": "+49(0)5556 433623",
+      "Address1": "Ludger-Junck-Ring 596",
+      "Address2": "Mecklenburg-Vorpommern",
+      "Zip": "62070",
+      "CountryCode": "DE",
+      "CountryName": "Deutschland",
+      "FavoriteBrand": "Powerpull"
+    }
+  }
+}
+ ]

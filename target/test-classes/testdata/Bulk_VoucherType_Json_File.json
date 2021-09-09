@@ -1,0 +1,7 @@
+[{
+    "name": "BulkVoucherJsonType_01",
+    "of": "Amount",
+    "description": "JSON Test voucher type",
+    "value": 10.0
+  }
+]
